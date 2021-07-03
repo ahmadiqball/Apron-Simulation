@@ -1,8 +1,8 @@
 clear all
 clc
 
-%Name : Ahmad Iqbal Yahya
-%NIM : 13618062
+%By Ahmad Iqbal Yahya
+
 
 %---------Single Simulation of Aircraft Operation in Apron-----------%
 
